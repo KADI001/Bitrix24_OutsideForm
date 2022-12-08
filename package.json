@@ -118,6 +118,7 @@
     "@vaadin/virtual-list": "23.2.11",
     "construct-style-sheets-polyfill": "3.1.0",
     "date-fns": "2.29.3",
+    "line-awesome": "1.3.0",
     "lit": "2.4.1",
     "proj4": "2.8.0"
   },
@@ -254,7 +255,8 @@
     "@polymer/polymer": "$@polymer/polymer",
     "date-fns": "$date-fns",
     "@vaadin/multi-select-combo-box": "$@vaadin/multi-select-combo-box",
-    "proj4": "$proj4"
+    "proj4": "$proj4",
+    "line-awesome": "$line-awesome"
   },
   "vaadin": {
     "dependencies": {
@@ -373,6 +375,7 @@
       "@vaadin/virtual-list": "23.2.11",
       "construct-style-sheets-polyfill": "3.1.0",
       "date-fns": "2.29.3",
+      "line-awesome": "1.3.0",
       "lit": "2.3.1",
       "proj4": "2.8.0"
     },
@@ -392,6 +395,6 @@
       "workbox-core": "6.5.0",
       "workbox-precaching": "6.5.0"
     },
-    "hash": "d3b98cad4bcfbdc12b21ad3b871192c3154d20b008110d526e24696f9765179e"
+    "hash": "eaa6fdcb219f60e5f1083dbb33b18620b4195899c260081601b1dd04ffd2b844"
   }
 }

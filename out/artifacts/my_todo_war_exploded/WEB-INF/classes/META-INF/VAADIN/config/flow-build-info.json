@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\KadiWhite01\\Desktop\\my-todo",
+  "node.version": "v16.18.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\target\\frontend",
+  "frontendFolder": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\KadiWhite01\\Desktop\\my-todo\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
